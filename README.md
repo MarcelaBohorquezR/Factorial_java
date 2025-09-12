@@ -20,7 +20,7 @@ mvn -v
 Para compilar el proyecto:
 
 ```bash
-mvn compile
+mvn compile 
 ```
 
 ## 🧪 Ejecutar pruebas
