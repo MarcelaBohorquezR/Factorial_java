@@ -1,4 +1,4 @@
-name: Java CI - Maven
+name: Java CI - Maven v1
 #cuando se debe ejecutar nuestro flujo
 on:
   push:
